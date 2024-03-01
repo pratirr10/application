@@ -1,0 +1,7 @@
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+D:\DockerComposeDemo\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
